@@ -1,0 +1,5 @@
+bash scripts to help generate X509 certificates.
+be aware of differences amongst linux (i.e. ubuntu, fedora)
+
+note: places keys and certificates directly in /etc/strongswan/ipsec.d
+note2: uses command strongswan and not ipsec
